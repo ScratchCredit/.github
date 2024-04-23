@@ -8,6 +8,6 @@
 # ScratchCredit
 ScratchCredit is the (unfinished) Scratch (pretend) currency.
 ## Developers and Owners
-* [Youssef] (Owner 1) ([Scratch)][Youssef's Scratch])
-* [yippymishy] (Owner 2) ([Scratch)][yippymishy's Scratch])
-* [jayz33] (Owner 3) ([(Scratch)][jayz33's Scratch])
+* [Youssef] (Owner 1) ([Scratch][Youssef's Scratch])
+* [yippymishy] (Owner 2) ([Scratch][yippymishy's Scratch])
+* [jayz33] (Owner 3) ([Scratch][jayz33's Scratch])
